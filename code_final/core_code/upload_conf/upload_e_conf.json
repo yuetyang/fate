@@ -1,0 +1,8 @@
+{
+    "file": "/media/neok16/KINGSTON/YYT/yyt/shuffle_data/test_dataset_b.csv",
+    "head":1,
+    "partition": 10,
+    "work_mode": 0,
+    "table_name": "kkhomo_test_dataset_b",
+    "namespace": "experiment"
+}

@@ -1,0 +1,10 @@
+{
+    "file": "/media/neok16/KINGSTON/YYT/yyt/shuffle_data/train_dataset_e.csv",
+    "head":1,
+    "partition": 10,
+    "work_mode": 0,
+    "table_name": "kkhomo_train_dataset_e",
+    "namespace": "experiment"
+}
+
+

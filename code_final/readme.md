@@ -1,0 +1,4 @@
+1、core_code为代码文件夹，使用json文件在FATE平台中提交训练和测试任务，train_and_predict为训练任务和测试任务的文件夹，包括模型定义、训练策略等；uoload_conf为数据上传任务的文件夹；
+2、data_deal_code为数据处理代码文件夹，包括数据删减、数据划分；
+3、predict_output为最后的预测结果的输出文件，为csv格式；
+4、train_and_test_data为划分好的训练集和测试集
